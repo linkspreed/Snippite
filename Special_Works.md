@@ -1,3 +1,6 @@
+# 21.07.2022 
+  - Snippite now uses PHP version 8.0.2
+
 # 21.07.2022
   - We will release a new version v3.3.0 soon.
 
