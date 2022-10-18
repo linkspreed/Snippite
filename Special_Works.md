@@ -1,4 +1,7 @@
 ### 18.10.2022 (announcement Snippite)
+- Version 3.4.0 has been released successfully. 😺
+
+### 18.10.2022 (announcement Snippite)
 - We are starting to launch version 3.4.0 now :)
 
 ### 18.10.2022 (announcement Snippite)
