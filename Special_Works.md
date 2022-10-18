@@ -1,3 +1,6 @@
+### 18.10.2022 (announcement Snippite)
+- We will now launch and release version 3.4.0 for **Snippite**.
+
 # 18.10.2022
   - We are working on an new update
 
