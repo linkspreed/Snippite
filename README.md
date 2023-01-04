@@ -1,4 +1,4 @@
-# <img align="left" alt="Snippite" width="40px" src="https://snippite.tk/uploads/brand/0InJ5v3I7yT1aFXCJfpDGjeW1YBZWcsDn4laG9JI.png" draggable="false" /> Snippite ([Click to try 🚀](https://snippite.tk/))
+# <img align="left" alt="Snippite" width="40px" src="https://snippite.tk/uploads/brand/0InJ5v3I7yT1aFXCJfpDGjeW1YBZWcsDn4laG9JI.png" draggable="false" /> Snippite ([Click to try 🚀](https://snippite.tk/)) (v3.5)
 
 Snippite 💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
 
