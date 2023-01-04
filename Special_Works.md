@@ -1,4 +1,7 @@
 ### 04.01.2023 (announcement Snippite)
+-  **Snippite** gets a big update today - we are going to launch v3.5.0. 😍
+
+### 04.01.2023 (announcement Snippite)
 - Soon we will release version 3.5 for **Snippite**.
 
 ### 18.10.2022 (announcement Snippite)
