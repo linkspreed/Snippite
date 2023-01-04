@@ -1,4 +1,7 @@
 ### 04.01.2023 (announcement Snippite)
+- The code is now ready for the launch of version 3.5.0 for **Snippite**.
+
+### 04.01.2023 (announcement Snippite)
 -  **Snippite** gets a big update today - we are going to launch v3.5.0. 😍
 
 ### 04.01.2023 (announcement Snippite)
