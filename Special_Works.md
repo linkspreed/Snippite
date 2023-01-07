@@ -1,4 +1,7 @@
 ### 07.01.2023 (announcement Snippite)
+-  **Snippite** gets a big update today - we are going to launch v3.5.1. 😍
+
+### 07.01.2023 (announcement Snippite)
 - We're currently working on v3.5.1 for **Snippite**!
 
 ### 04.01.2023 (announcement Snippite)
