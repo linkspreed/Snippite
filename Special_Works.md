@@ -1,4 +1,9 @@
 ### 16.01.2023 (announcement Snippite)
+- The launch of version 3.6 of **Snippite** was successful! 🥳
+- The new update is live now :)
+- https://snippite.tk 🔗
+
+### 16.01.2023 (announcement Snippite)
 - We are now starting the launch of v3.6.
 
 ### 16.01.2023 (announcement Snippite)
