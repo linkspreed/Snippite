@@ -1,4 +1,7 @@
 ### 16.01.2023 (announcement Snippite)
+- The servers are now ready for the launch of version 3.6 for **Snippite**.
+
+### 16.01.2023 (announcement Snippite)
 - The code is now ready for the launch of version 3.6 for **Snippite**.
 
 ### 16.01.2023 (announcement Snippite)
