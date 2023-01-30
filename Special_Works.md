@@ -1,3 +1,6 @@
+### 30.01.2023 (announcement Snippite)
+-  **Snippite** gets a big update today - we are going to launch v3.6.1. 😍
+
 ### 16.01.2023 (announcement Snippite)
 - https://github.com/linkspreed/Snippite/blob/main/changelog.md
 - The entire changelog is now available on Github.
