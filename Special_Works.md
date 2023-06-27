@@ -1,3 +1,6 @@
+### 27.06.2023 (announcement Snippite)
+- 🎉Exciting update! We've added Snippite to our subdomain system 🌟Now, https://snippite.tk redirects to https://snippite.linkspreed.com. Don't worry, nothing changes for you in terms of using the platform with all existing data! Have you checked out the new features? #Snippite #Linkspreed #Subdomains 💻📱💡What do you love most about Snippite?
+
 ### 30.01.2023 (announcement Snippite)
 - https://github.com/linkspreed/Snippite/blob/main/changelog.md
 - The entire changelog is now available on Github.
